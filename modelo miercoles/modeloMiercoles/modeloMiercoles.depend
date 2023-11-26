@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1698954552 source:c:\users\matip\desktop\modelos de parcial\programacion\modelo miercoles\modelomiercoles\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	"parcial2.h"
+
+1698868567 c:\users\matip\desktop\modelos de parcial\programacion\modelo miercoles\modelomiercoles\parcial2.h
+

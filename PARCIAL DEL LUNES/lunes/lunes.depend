@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1699359712 source:c:\users\matip\desktop\modelos de parcial\programacion\parcial del lunes\lunes\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	"parcial2.h"
+
+1699359922 c:\users\matip\desktop\modelos de parcial\programacion\parcial del lunes\lunes\parcial2.h
+

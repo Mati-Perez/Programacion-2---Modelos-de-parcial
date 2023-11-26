@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1699451322 source:c:\users\matip\desktop\modelos de parcial\programacion\parcial martes\perez_matias\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	"parcial2.h"
+
+1699447508 c:\users\matip\desktop\modelos de parcial\programacion\parcial martes\perez_matias\parcial2.h
+

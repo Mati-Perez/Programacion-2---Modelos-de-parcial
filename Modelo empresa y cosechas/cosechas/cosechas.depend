@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1699118645 source:c:\users\matip\desktop\modelos de parcial\programacion\modelo empresa y cosechas\cosechas\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	"parcial2.h"
+
+1699117352 c:\users\matip\desktop\modelos de parcial\programacion\modelo empresa y cosechas\cosechas\parcial2.h
+

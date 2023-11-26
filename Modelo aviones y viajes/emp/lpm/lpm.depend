@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1699283172 source:c:\users\matip\desktop\modelos de parcial\programacion\modelo aviones y viajes\emp\lpm\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	"parcial2.h"
+
+1699283172 c:\users\matip\desktop\modelos de parcial\programacion\modelo aviones y viajes\emp\lpm\parcial2.h
+
